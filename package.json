@@ -1,0 +1,24 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "Este es un CRUD en Node, Express, Mongo y EJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app",
+    "dev": "nodemon app",
+    "test": "standard && node my-tests.js"
+  },
+  "keywords": [],
+  "git-repository": "https://github.com/Sergiobass91/Task",
+  "author": "Sergio Beltran",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1",
+    "standard": "^13.0.2"
+  }
+}
