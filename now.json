@@ -1,0 +1,9 @@
+
+{
+    "name": "Task",
+    "version": 1,
+    "public": true,
+    "github": {
+        "enabled": true
+    }
+}
