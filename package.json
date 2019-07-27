@@ -4,6 +4,7 @@
   "description": "Este es un CRUD en Node, Express, Mongo y EJS",
   "main": "app.js",
   "scripts": {
+    "build": "",
     "start": "node app",
     "dev": "nodemon app",
     "test": "standard && node my-tests.js"
